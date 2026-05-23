@@ -1,0 +1,5 @@
+/* Fútbol Manager - estilos */
+.table-hover tbody tr:hover { background-color: #f0fff4; transition: background-color 0.15s; }
+.card { border-radius: 0.6rem; }
+.footer { margin-top: auto; }
+.navbar-brand { letter-spacing: 0.5px; }

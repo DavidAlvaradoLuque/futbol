@@ -1,0 +1,17 @@
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\FutbolWebApplication.java
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\controller\CompeticionController.java
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\controller\AsociacionController.java
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\repository\AsociacionRepository.java
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\model\Club.java
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\repository\CompeticionRepository.java
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\model\Competicion.java
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\repository\ClubRepository.java
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\repository\JugadorRepository.java
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\model\Asociacion.java
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\controller\JugadorController.java
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\controller\EntrenadorController.java
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\repository\EntrenadorRepository.java
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\controller\HomeController.java
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\model\Entrenador.java
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\model\Jugador.java
+C:\SpringBoot\workspace\futbol-deploy\src\main\java\com\futbol\controller\ClubController.java
