@@ -1,0 +1,23 @@
+# Maven
+target/
+*.class
+*.jar
+*.war
+
+# Eclipse / Spring Tool Suite
+.classpath
+.project
+.settings/
+bin/
+.metadata/
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Spring Boot DevTools
+.devtools
